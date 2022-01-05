@@ -1,0 +1,9 @@
+h1 {
+    background-color: green;
+    color: white;
+}
+p {
+    background-color: rgb(15, 15, 92);
+    color: yellow;
+    text-align: justify;
+}
